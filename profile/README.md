@@ -2,29 +2,30 @@
   <img src="https://raw.githubusercontent.com/NusaLang/.github/main/profile/hero.svg" width="720" alt="nsl Nusantara" />
 </p>
 
-Nusantara (`.ns`) adalah bahasa pemrograman yang keyword-nya Bahasa Indonesia. Dikompilasi native dengan C++17, punya garbage collector, goroutine, dan package manager berbasis git.
+<h3 align="center">Bahasa pemrograman yang bisa ditulis dengan bahasa sehari-hari.</h3>
 
-```
-fungsi fib(n) {
-    jika n < 2 { hasil n; }
-    hasil fib(n - 1) + fib(n - 2);
-}
+<br/>
 
-untuk (buat i = 0; i < 10; i = i + 1) {
-    cetak(fib(i));
-}
-```
+## Visi
 
-## Mulai
+Setiap orang di Indonesia bisa belajar pemrograman dan membuat program sungguhan dengan bahasanya sendiri, tanpa terhalang kosakata asing.
 
-```bash
-git clone https://github.com/NusaLang/NSL
-cd NSL && ./install.sh
-nusa run examples/hello.ns
-```
+## Misi
 
-## Repo
+1. **Keyword Bahasa Indonesia, kemampuan sungguhan.** `fungsi`, `jika`, `selama`, `hasil`. Dikompilasi native, bukan bahasa mainan.
+2. **Mudah dipelajari.** Sintaks dijaga sederhana, mirip Python dan JavaScript.
+3. **Ringan dipasang.** Satu binary, tanpa runtime tambahan. Jalan di Linux, Android (Termux), dan Windows.
+4. **Terbuka.** Berlisensi Apache-2.0. Paket cukup repo git biasa, tanpa registry terpisah.
+5. **Cukup lengkap buat dipakai.** HTTP, JSON, kripto, SQLite, goroutine dan channel sudah tersedia.
 
-- [NSL](https://github.com/NusaLang/NSL): bahasanya, berisi compiler, bytecode VM dengan JIT, GC, dan CLI `nusa`
-- [Kripto](https://github.com/NusaLang/Kripto): modul kripto
-- [axios](https://github.com/NusaLang/axios): pustaka HTTP client
+## Proyek
+
+| | |
+| --- | --- |
+| [**NSL**](https://github.com/NusaLang/NSL) | Bahasa Nusantara itu sendiri |
+| [Kripto](https://github.com/NusaLang/Kripto) | Modul kripto |
+| [axios](https://github.com/NusaLang/axios) | Pustaka HTTP client |
+
+## Ikut bantu
+
+Cari bug, tulis contoh program, atau buat paket. Mulai dari [NSL](https://github.com/NusaLang/NSL).
