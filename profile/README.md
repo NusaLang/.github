@@ -2,30 +2,43 @@
   <img src="https://raw.githubusercontent.com/NusaLang/.github/main/profile/hero.svg" width="720" alt="nsl Nusantara" />
 </p>
 
-<h3 align="center">Bahasa pemrograman yang bisa ditulis dengan bahasa sehari-hari.</h3>
+<p align="center"><b>A programming language you can write in everyday Indonesian.</b></p>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NusaLang/.github/main/profile/divider.svg" width="720" alt="" />
+</p>
 
-## Visi
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <h3>Vision</h3>
+      Anyone in Indonesia can learn to program and build real software in their own language, without being held back by unfamiliar vocabulary.
+    </td>
+    <td width="62%" valign="top">
+      <h3>Mission</h3>
+      <ol>
+        <li><b>Indonesian keywords, real capability.</b> <code>fungsi</code>, <code>jika</code>, <code>selama</code>, <code>hasil</code>. Compiled natively, not a toy language.</li>
+        <li><b>Easy to learn.</b> Simple syntax, close to Python and JavaScript.</li>
+        <li><b>Easy to install.</b> One binary, no extra runtime. Runs on Linux, Android (Termux), and Windows.</li>
+        <li><b>Open.</b> Apache-2.0. A package is just a plain git repository.</li>
+        <li><b>Complete enough to use.</b> HTTP, JSON, crypto, SQLite, goroutines, and channels are built in.</li>
+      </ol>
+    </td>
+  </tr>
+</table>
 
-Setiap orang di Indonesia bisa belajar pemrograman dan membuat program sungguhan dengan bahasanya sendiri, tanpa terhalang kosakata asing.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NusaLang/.github/main/profile/divider.svg" width="720" alt="" />
+</p>
 
-## Misi
+<h3 align="center">Projects</h3>
 
-1. **Keyword Bahasa Indonesia, kemampuan sungguhan.** `fungsi`, `jika`, `selama`, `hasil`. Dikompilasi native, bukan bahasa mainan.
-2. **Mudah dipelajari.** Sintaks dijaga sederhana, mirip Python dan JavaScript.
-3. **Ringan dipasang.** Satu binary, tanpa runtime tambahan. Jalan di Linux, Android (Termux), dan Windows.
-4. **Terbuka.** Berlisensi Apache-2.0. Paket cukup repo git biasa, tanpa registry terpisah.
-5. **Cukup lengkap buat dipakai.** HTTP, JSON, kripto, SQLite, goroutine dan channel sudah tersedia.
+<table>
+  <tr>
+    <td width="34%" valign="top" align="center"><b><a href="https://github.com/NusaLang/NSL">NSL</a></b><br/>The Nusantara language itself: compiler, VM, and the <code>nusa</code> CLI.</td>
+    <td width="33%" valign="top" align="center"><b><a href="https://github.com/NusaLang/Kripto">Kripto</a></b><br/>Crypto module for Nusantara.</td>
+    <td width="33%" valign="top" align="center"><b><a href="https://github.com/NusaLang/axios">axios</a></b><br/>HTTP client library.</td>
+  </tr>
+</table>
 
-## Proyek
-
-| | |
-| --- | --- |
-| [**NSL**](https://github.com/NusaLang/NSL) | Bahasa Nusantara itu sendiri |
-| [Kripto](https://github.com/NusaLang/Kripto) | Modul kripto |
-| [axios](https://github.com/NusaLang/axios) | Pustaka HTTP client |
-
-## Ikut bantu
-
-Cari bug, tulis contoh program, atau buat paket. Mulai dari [NSL](https://github.com/NusaLang/NSL).
+<p align="center">Want to help? Find a bug, write an example program, or publish a package. Start at <a href="https://github.com/NusaLang/NSL">NSL</a>.</p>
