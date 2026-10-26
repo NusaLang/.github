@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NusaLang/.github/main/profile/logo.png" width="180" alt="nsl Nusantara" />
+  <img src="https://raw.githubusercontent.com/NusaLang/.github/main/profile/hero.svg" width="720" alt="nsl Nusantara" />
 </p>
 
 Nusantara (`.ns`) adalah bahasa pemrograman yang keyword-nya Bahasa Indonesia. Dikompilasi native dengan C++17, punya garbage collector, goroutine, dan package manager berbasis git.
